@@ -1,6 +1,6 @@
 # 🧠 SILI — Simple Isometric Lighting Implementation
 
-*(a.k.a. SILLY — because making light shouldn’t be that serious)*
+*(a.k.a. SILLY)*
 
 A lightweight and easy-to-use **isometric lighting system** for **LÖVE2D** written in **Lua**.
 SILI provides a simple way to add dynamic lighting to isometric 2D scenes without complex shaders or external dependencies.
@@ -29,7 +29,7 @@ SILI provides a simple way to add dynamic lighting to isometric 2D scenes withou
 Clone or download this repository, then include the SILI files in your Love2D project folder.
 
 ```bash
-git clone https://github.com/<your-username>/SILI.git
+git clone https://github.com/nihiL7331/SILI-lua.git
 ```
 
 Then require it in your main file:
